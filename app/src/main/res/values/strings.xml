@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testeTesao</string>
+    <string name="minus_button">Subtrai -1</string>
+    <string name="plus_button">Soma +1</string>
+</resources>
